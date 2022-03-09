@@ -1,0 +1,134 @@
+
+.title {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.subtitle {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+p {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.banner {
+    width: fit-content;
+    height: fit-content;
+    z-index: -1;
+}
+
+nav {
+    z-index: -1;
+}
+
+button {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+div {
+    width: 400px;
+    height: 200px;
+    border: 1px, black;
+}
+
+body {
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-image: url("https://th.bing.com/th/id/OIP.fzHqEWsXvhJthUCRbCt8SQHaEo?w=296&h=185&c=7&r=0&o=5&pid=1.7")
+}
+
+<--! BLOG PAGE --->
+
+/**Header**/
+header {
+    background-image:url("IMG/super_mario_bros.0.1489691331\ \(1\).jpg");
+    width: 1331px;
+    height: 503px;
+    text-align: center;
+    margin-left: 0px;
+    margin-top: 0px;
+}
+h1 {
+    color: white;
+    font-size: 50px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+/**Text**/
+h3 {
+    color: red;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+ 
+body {
+    background-color: rgba(169, 223, 241, 0.472);
+}
+ 
+p {
+    color: black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+<--!SUBSCRIPTION!--->
+
+/**Header**/
+header {
+    background-image:url("IMG/téléchargement\ \(2\).jpg");
+    width: 1331px;
+    height: 400px;
+    text-align: center;
+    margin-left: 0px;
+    margin-top: 0px;
+}
+h1 {
+    color: darkblue;
+    font-size: 40px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+ 
+/**Text**/
+h3 {
+    color: red;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+ 
+body {
+    background-color: rgba(169, 223, 241, 0.472);
+    text-align: center;
+}
+ 
+p {
+    color: black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+ 
+label {
+    color: black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+<--! biancas css ---!>
+h1, h3, p, li{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+body{
+    background-color: rgba(169, 223, 241, 0.472);
+}
+h3, h1{
+    color: rgb(53, 53, 177);
+}
+div {
+    margin-right: 50px;
+}
+img {
+    width: 400px;
+}
+h1 {
+    text-align: center;
+}
+
+
+
+
+
